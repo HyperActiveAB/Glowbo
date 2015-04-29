@@ -1,2 +1,2 @@
 # Glowbo
-Glowbo is Hyper...
+Glowbo is HYPER
